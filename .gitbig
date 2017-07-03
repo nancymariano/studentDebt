@@ -1,10 +1,21 @@
 {
     "files": {
-        "1GB.bin": "da87281c9f9ab6cef8f9362935f4fc864db94606d52212614894f1253461a762", 
+        "newnew.txt": "dde702c38d15ab4b60e31bc60e87cac2ecf2633b02b26d8ae0cc4641665f94f1", 
         "newfile.txt": "5c83663cc67f1388ce21ab4f558768a6cee43dcde0a72ca4bc788ba43869d079", 
-        "new1GB.bin": "da87281c9f9ab6cef8f9362935f4fc864db94606d52212614894f1253461a762", 
+        "newting.lol": "8240992aef4ac028cbf60fff5f1b2de1f3e20a6364f387e1d52e900a81e4a7d2", 
+        "remotetest.txt": "d456862104446899bb35fdb2cf7479aaee3e4636900cb8a60ebe52b86317db45", 
+        "newting2.lol": "771cbe5c032837851727153879585ea59a79108bd11c218ff45b70e6fa55662d", 
+        "newest.txt": "38257b346d1d6b280f021c07859684523c3a765cdd0f60f5b7716432fc120b7b", 
+        "1.txt": "4f4f19081a6cae2608d28237472eda1c514aacf4ee7bc53d7061ea0cc915a5ce", 
+        "localtest.txt": "46eae4a2522786f354f7051384f02991447ef6be52e3599b58f648f6e9be891e", 
+        "1GB.bin": "da87281c9f9ab6cef8f9362935f4fc864db94606d52212614894f1253461a762", 
+        "newthing.txt": "3fa31a1c366f8d3861d8c465a00213f1ec52f6f369dc95966b8f84251f3cfa24", 
+        "2.txt": "823f858815271af75ee7cd8be339b73cf7ca47053af936384aa8af9f51d0ae12", 
+        "newfileagain.txt": "b5d52143166b166b05e8b8dd77e32c41ede793b0c33427a1f6b258b8eebff14a", 
+        "test1.txt": "e2aa9abb92944af4d2c23c142236ba1ca8ebd370216a53a987351fa1da9083a7", 
+        "newting3.lol": "752ac1dc78d17a03dff58e3a564dc093107d810e04517f1b29ca92ec589a7f21", 
         "10GB.bin": "0b5529c9d56990160223832b56347c5c065b4fb674a60e9dc636c585518b8f03", 
-        "remotetest.txt": "d456862104446899bb35fdb2cf7479aaee3e4636900cb8a60ebe52b86317db45"
+        "studentStats.cs": "fef293a67d40264d7947d29ec6f2f2f3a0adc7baa377f50312aace1f8955c077"
     }, 
     "version": 1
 }
